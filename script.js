@@ -27,7 +27,7 @@ function multiply (a, b) {
 }
 function divide (a, b) {
     if (b === 0 || a === 0) {
-        return "Error division by zero is not allowed";
+        return "I'll die doing this";
     }
     return a / b;   
 }
